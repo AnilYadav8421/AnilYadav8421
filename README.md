@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anil Yadav</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h1 align="center">Hi there 👋. My name is Anil Yadav</h1>
 
+I'm a **Frontend Developer** with knowledge of **backend technologies**. I have completed my **Master of Computer Applications (MCA)** and specialize in building responsive and user-friendly web applications using **React.js, JavaScript, and Tailwind CSS**. While my main focus is on frontend development, I also have experience with **Node.js, Express, and MongoDB**. I enjoy solving problems, optimizing performance, and continuously learning new technologies to improve my skills.
 
 - 🔭 I’m currently working on **E-commerce App**
 

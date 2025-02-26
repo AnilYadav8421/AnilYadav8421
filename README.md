@@ -2,6 +2,7 @@
 
 I'm a **Full-Stack Developer**. I have completed my **Master of Computer Applications (MCA)** and specialize in building **scalable, responsive, and user-friendly web applications** using **React.js, JavaScript, and Tailwind CSS** for the frontend and **Node.js, Express, and MongoDB** for the backend. I focus on **developing efficient APIs, integrating authentication, and optimizing application performance**. I enjoy **solving complex problems, improving system architecture, and continuously learning new technologies** to enhance my full-stack development skills.
 
+📄 [View My Resume](https://github.com/AnilYadav8421/Resume/blob/main/ANIL_R_YADAV.pdf)
 
 - 🔭 I’m currently working on **building scalable web applications** with modern technologies, focusing on performance, user experience, and innovation.
 

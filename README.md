@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋. My name is Anil Yadav</h1>
 
-I'm a **Full-Stack Developer**. I have completed my **Master of Computer Applications (MCA)** and specialize in building **scalable, responsive, and user-friendly web applications** using **React.js, JavaScript, and Tailwind CSS** for the frontend and **Node.js, Express, and MongoDB** for the backend. I focus on **developing efficient APIs, integrating authentication, and optimizing application performance**. I enjoy **solving complex problems, improving system architecture, and continuously learning new technologies** to enhance my full-stack development skills.
+Hi, I’m a **Frontend Developer** with a Master’s in Computer Applications (MCA). I enjoy building responsive, user-friendly web applications using **React.js, JavaScript, and Tailwind CSS**. I've worked on real-world projects during my internship, where I focused on creating clean UIs, integrating APIs, and improving user experience. I also have basic experience with backend technologies like **Node.js, Express, and MongoDB**, and I’m always learning and exploring more about full-stack development. I like solving real problems, writing clean code, and continuously improving my skills with every project.
 
 📄 [View My Resume](https://github.com/AnilYadav8421/Resume/blob/main/ANIL_YADAV_Resume.pdf)
 

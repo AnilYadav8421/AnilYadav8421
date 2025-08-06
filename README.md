@@ -2,21 +2,8 @@
 
 Hi, I’m a **Frontend Developer** with a Master’s in Computer Applications (MCA). I enjoy building responsive, user-friendly web applications using **React.js, JavaScript, and Tailwind CSS**. I've worked on real-world projects during my internship, where I focused on creating clean UIs, integrating APIs, and improving user experience. I also have basic experience with backend technologies like **Node.js, Express, and MongoDB**, and I’m always learning and exploring more about full-stack development. I like solving real problems, writing clean code, and continuously improving my skills with every project.
 
-📄 [View My Resume](https://github.com/AnilYadav8421/Resume/blob/main/ANIL_YADAV_Resume.pdf)
-
-- 🔭 I’m currently working on **building scalable web applications** with modern technologies, focusing on performance, user experience, and innovation.
-
-- 🌱 I’m currently learning **advanced web development, system design, and AI integration** to build scalable and innovative applications.
-
-- 👯 I’m looking to collaborate on **open-source projects, innovative web applications, and AI-driven solutions** that push the boundaries of technology.
-
-- 🤝 I’m looking for help with **with open-source contributions, advanced system design, and scaling web applications efficiently.**
-
-- 💬 Ask me about **scalable web architectures, performance optimization, AI integration, and modern development workflows.**
-
-- 📫 How to reach me **anilyadav8149838058@gmail.com**
-
-- ⚡ Fun fact **When I’m not building apps, I’m tracking the market trends for fun.**
+📄 [My Resume](https://github.com/AnilYadav8421/Resume/blob/main/Anil_Yadav_Resume.pdf)
+🧑‍💻 [My Portfolio](https://portfolio-ivory-nine-10.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anil-yadav-3111a9268/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/anilyadav1108) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anilyadav8149838058@gmail.com) 

@@ -1,20 +1,8 @@
 <h1 align="center">Hi there 👋. My name is Anil Yadav</h1>
 
-Hi, I'm Anil Yadav — a Full Stack Developer (MERN) who builds responsive, scalable, and user-focused web applications.
-🚀 What I work with:
-→ React.js, JavaScript (ES6+), Tailwind CSS
-→ Node.js, Express.js, MongoDB
-→ REST APIs, API Integration
-💼 Experience:
-→ Contributed to real-world projects during internship
-→ Built and integrated clean UIs with API connections
-→ Worked on e-commerce platform (UI, API, architecture)
-🌱 Currently:
-→ Building full stack MERN projects
-→ Deepening backend skills with Node.js & MongoDB
-🎯 Goal:
-→ Land a Full Stack Developer role and build products that solve real problems
-📫 Open to opportunities in Full Stack Development
+Hi, I'm Anil Yadav — a Full Stack Developer (MERN) who builds responsive, scalable, and user-focused web applications. I work with React.js, JavaScript, Tailwind CSS on the frontend and Node.js, Express.js, MongoDB on the backend to create clean, performant, and real-world ready products.
+I've contributed to real-world projects during my internship, focusing on UI development, API integration, and improving user experience. Currently, I'm actively building full stack MERN projects to sharpen my backend skills and grow as a complete developer.
+I enjoy solving real problems, writing clean code, and learning something new with every project. Open to Full Stack Developer opportunities.
 
 📄 [My Resume](https://github.com/AnilYadav8421/Resume/blob/main/Anil_Yadav_Resume.pdf)
 🧑‍💻 [My Portfolio](https://portfolio-ivory-nine-10.vercel.app/)
